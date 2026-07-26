@@ -161,3 +161,4 @@ DuckDB | PostgreSQL | Apache Arrow | Parquet | pandas | NumPy | Streamlit | Tabl
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:007ACC,100:4FC1FF&height=90&section=footer"/>
 </p>
+
