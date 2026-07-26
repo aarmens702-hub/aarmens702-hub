@@ -5,7 +5,7 @@
 
 <p align="left">
   <strong>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4FC1FF&width=750&lines=Hi,+I'm+Aarmen+Sidhu!;Data+Science+@+SFU+%7C+building+GenAI+%26+ML+systems"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC1FF&width=750&lines=Hi,+I'm+Aarmen+Sidhu!;Data+Science+@+SFU+%7C+building+GenAI+%26+ML+systems"/>
   </strong>
 </p>
 
@@ -78,7 +78,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
 <h2>🚀 Featured Projects</h2>
 
 <a href="https://github.com/aarmens702-hub/genai-stack-coder">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=440&height=35&lines=$+genai-stack-coder" alt="genai-stack-coder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=440&height=35&lines=$+genai-stack-coder" alt="genai-stack-coder"/>
 </a>
 <p><strong>Tech:</strong> Python • PyTorch • QLoRA/Unsloth • Hugging Face • llama.cpp • Ollama • FastAPI</p>
 <ul>
@@ -88,7 +88,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
 </ul>
 
 <a href="https://github.com/aarmens702-hub/mailo">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=200&height=35&lines=$+mailo" alt="mailo"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=200&height=35&lines=$+mailo" alt="mailo"/>
 </a>
 <p><strong>Tech:</strong> Python • Amazon Bedrock AgentCore • Strands • A2A • MCP • Cedar • Cognito</p>
 <ul>
@@ -98,7 +98,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
 </ul>
 
 <a href="https://github.com/aarmens702-hub/greenleaf-dashboard">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=460&height=35&lines=$+greenleaf-dashboard" alt="greenleaf-dashboard"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=460&height=35&lines=$+greenleaf-dashboard" alt="greenleaf-dashboard"/>
 </a>
 <em>(2nd place — RBC × BCCAI × SFU Beedie Agribusiness Analytics Hackathon)</em>
 <p><strong>Tech:</strong> Python • scikit-learn • sentence-transformers • Streamlit</p>
@@ -109,7 +109,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
 </ul>
 
 <a href="https://github.com/aarmens702-hub/Inference-Benchmarks">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=480&height=35&lines=$+Inference-Benchmarks" alt="Inference-Benchmarks"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=480&height=35&lines=$+Inference-Benchmarks" alt="Inference-Benchmarks"/>
 </a>
 <em>(<a href="https://huggingface.co/spaces/Aarmen/inferbench">live demo</a> — no sign-in)</em>
 <p><strong>Tech:</strong> Python • FastAPI • ONNX Runtime • Docker • k6</p>
@@ -120,7 +120,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
 </ul>
 
 <a href="https://github.com/aarmens702-hub/plume">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=200&height=35&lines=$+plume" alt="plume"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=200&height=35&lines=$+plume" alt="plume"/>
 </a>
 <p><strong>Tech:</strong> Rust • Apache Arrow • Parquet • DuckDB • rayon</p>
 <ul>
@@ -130,7 +130,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
 </ul>
 
 <a href="https://github.com/aarmens702-hub/strata-warehouse">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=420&height=35&lines=$+strata-warehouse" alt="strata-warehouse"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=420&height=35&lines=$+strata-warehouse" alt="strata-warehouse"/>
 </a>
 <p><strong>Tech:</strong> Python • PostgreSQL • dlt • MinIO • dbt-duckdb • Dagster • Streamlit</p>
 <ul>
