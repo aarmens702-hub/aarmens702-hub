@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- HEADER --> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:007ACC,100:4FC1FF&text=Aarmen%20Sidhu&fontSize=46&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Science%20@%20SFU%20%E2%80%94%20building%20GenAI%20and%20ML%20systems&descSize=17&descAlignY=52"/>
 </p>
