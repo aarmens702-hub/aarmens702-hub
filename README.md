@@ -1,12 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,45:007ACC,100:4FC1FF"/>
-</p>
-
-<p align="left">
-  <strong>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4FC1FF&width=750&lines=Hi,+I'm+Aarmen+Sidhu!;Data+Science+@+SFU+%7C+building+GenAI+%26+ML+systems"/>
-  </strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,45:007ACC,100:4FC1FF&text=Aarmen%20Sidhu&fontSize=46&fontColor=FFFFFF&fontAlignY=32&desc=Data%20Science%20@%20SFU%20%E2%80%94%20building%20GenAI%20%26%20ML%20systems&descSize=17&descAlignY=52"/>
 </p>
 
 <p align="center">
@@ -77,9 +71,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
 <!-- PROJECTS -->
 <h2>🚀 Featured Projects</h2>
 
-<a href="https://github.com/aarmens702-hub/genai-stack-coder">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=440&height=35&lines=$+genai-stack-coder" alt="genai-stack-coder"/>
-</a>
+### [`$ genai-stack-coder`](https://github.com/aarmens702-hub/genai-stack-coder)
 <p><strong>Tech:</strong> Python • PyTorch • QLoRA/Unsloth • Hugging Face • llama.cpp • Ollama • FastAPI</p>
 <ul>
   <li>Fine-tuned <strong>Qwen2.5-Coder-7B on a single 12GB GPU</strong> to write current OpenAI/Anthropic SDK code: <strong>12% → 72%</strong> on a 50-prompt benchmark I built, with <strong>zero deprecated API calls</strong> after tuning</li>
@@ -87,9 +79,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
   <li>Wrote a ~400-line <strong>coding-agent harness</strong> (22 protocol tests); the tuned model wrote the first version of its own demo app</li>
 </ul>
 
-<a href="https://github.com/aarmens702-hub/mailo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=200&height=35&lines=$+mailo" alt="mailo"/>
-</a>
+### [`$ mailo`](https://github.com/aarmens702-hub/mailo)
 <p><strong>Tech:</strong> Python • Amazon Bedrock AgentCore • Strands • A2A • MCP • Cedar • Cognito</p>
 <ul>
   <li>Multi-agent email-campaign system: a thin <strong>orchestrator delegating to 3 specialists over A2A</strong>, with tools behind an MCP Gateway</li>
@@ -97,9 +87,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
   <li>A <strong>Cedar policy at the Gateway</strong> default-denies and caps email sends <em>outside the prompt</em>, so a jailbroken model still can't bypass it</li>
 </ul>
 
-<a href="https://github.com/aarmens702-hub/greenleaf-dashboard">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=460&height=35&lines=$+greenleaf-dashboard" alt="greenleaf-dashboard"/>
-</a>
+### [`$ greenleaf-dashboard`](https://github.com/aarmens702-hub/greenleaf-dashboard)
 <em>(2nd place — RBC × BCCAI × SFU Beedie Agribusiness Analytics Hackathon)</em>
 <p><strong>Tech:</strong> Python • scikit-learn • sentence-transformers • Streamlit</p>
 <ul>
@@ -108,9 +96,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
   <li>Built an <strong>agentic RAG analyst</strong> that decides turn-by-turn whether to search docs or query live farm data, citing every source</li>
 </ul>
 
-<a href="https://github.com/aarmens702-hub/Inference-Benchmarks">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=480&height=35&lines=$+Inference-Benchmarks" alt="Inference-Benchmarks"/>
-</a>
+### [`$ Inference-Benchmarks`](https://github.com/aarmens702-hub/Inference-Benchmarks)
 <em>(<a href="https://huggingface.co/spaces/Aarmen/inferbench">live demo</a> — no sign-in)</em>
 <p><strong>Tech:</strong> Python • FastAPI • ONNX Runtime • Docker • k6</p>
 <ul>
@@ -119,9 +105,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
   <li>Every run writes a config snapshot so <strong>results are reproducible</strong>; two real bugs found and fixed via the benchmarks themselves</li>
 </ul>
 
-<a href="https://github.com/aarmens702-hub/plume">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=200&height=35&lines=$+plume" alt="plume"/>
-</a>
+### [`$ plume`](https://github.com/aarmens702-hub/plume)
 <p><strong>Tech:</strong> Rust • Apache Arrow • Parquet • DuckDB • rayon</p>
 <ul>
   <li>Analytical query engine: <strong>~4,800 lines across 5 crates, 208 tests, zero warnings</strong>, with a typed DataFrame builder API</li>
@@ -129,9 +113,7 @@ I'm a <strong>Data Science student at Simon Fraser University</strong> who likes
   <li><strong>79 tests diff against DuckDB</strong> on canonicalized output — if the suite is green, the engines agree</li>
 </ul>
 
-<a href="https://github.com/aarmens702-hub/strata-warehouse">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=99999999&color=4FC1FF&width=420&height=35&lines=$+strata-warehouse" alt="strata-warehouse"/>
-</a>
+### [`$ strata-warehouse`](https://github.com/aarmens702-hub/strata-warehouse)
 <p><strong>Tech:</strong> Python • PostgreSQL • dlt • MinIO • dbt-duckdb • Dagster • Streamlit</p>
 <ul>
   <li>End-to-end SaaS subscription analytics warehouse: <strong>OLTP → lakehouse → Kimball marts → dashboard</strong>, reproducible from a single <code>--seed</code></li>
